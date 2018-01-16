@@ -1,0 +1,16 @@
+*id krizovky -0
+*sirka -1
+*vyska -2
+*plocha -3
+*vyfarbena cast -4
+*Ave time v sekundach -5
+*pocet vyrieseni -6
+*pocet nulovych riadkov -7
+*pocet iteracii v dynamike -8  
+*kolkokrat sa aplikovala dynamika -9
+*pocet iteracii v LR -10 
+*pocet jednotliveho vyuzitia pravidiel [1-13] 11-23
+*doriesene/nedoriesene pomocou LR -24
+*kolkokrat sa ktore pravidlo vyskytlo v najmensej podmnozine/pocet najmensich podmnozin. [1-13] -25-37
+
+to je dohromady 38 stlpcov.
